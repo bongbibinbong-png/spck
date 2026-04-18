@@ -1,0 +1,21 @@
+id,name,price,style,size,color,stock,description
+1,Áo thun trắng,120,casual,S M L XL,trắng,20,Áo cotton 100% form rộng
+2,Áo thun đen,120,casual,S M L XL,đen,18,Áo basic dễ phối đồ
+3,Áo thun xanh,130,casual,S M L XL,xanh,15,Trẻ trung năng động
+4,Áo polo,180,formal,M L XL,trắng đen,10,Lịch sự đi học đi làm
+5,Áo sơ mi trắng,200,formal,M L XL,trắng,12,Form slim fit
+6,Áo sơ mi caro,220,korean,M L XL,đỏ xanh,10,Phong cách Hàn Quốc
+7,Hoodie xám,250,street,M L XL,xám,8,Nỉ dày giữ ấm
+8,Hoodie đen,240,street,M L XL,đen,10,Form rộng basic
+9,Áo khoác jean,300,street,M L XL,xanh,6,Cá tính mạnh mẽ
+10,Áo khoác dù,220,sport,M L XL,đen xanh,9,Chống gió nhẹ
+11,Quần jean xanh,250,casual,M L XL,xanh,14,Co giãn nhẹ
+12,Quần jean đen,260,casual,M L XL,đen,13,Form slim fit
+13,Quần kaki,220,casual,M L XL,be đen,12,Trẻ trung
+14,Quần short,150,summer,M L XL,đen trắng,20,Thoải mái mùa hè
+15,Quần jogger,200,street,M L XL,đen xám,15,Năng động
+16,Váy hoa,230,female,S M L,hoa,10,Nữ tính Hàn Quốc
+17,Váy trắng,220,female,S M L,trắng,9,Nhẹ nhàng dễ thương
+18,Váy đen,240,female,S M L,đen,8,Sang trọng
+19,Đầm dự tiệc,350,female,S M L,đỏ đen,5,Sang chảnh
+20,Chân váy jean,200,female,S M L,xanh,11,Trẻ trung

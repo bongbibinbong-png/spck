@@ -1,0 +1,10 @@
+{
+  "initial_bot_message": "chào bạn, tôi là chatbot. Tôi có thể giúp bạn điều gì?",
+  "function": [
+    "giới thiệu nhà hàng",
+    "giới thiệu menu",
+    "tư vấn sản phẩm",
+    "gợi ý outfit",
+    "thanh toán"
+  ]
+}
